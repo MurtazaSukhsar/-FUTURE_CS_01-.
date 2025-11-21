@@ -47,7 +47,8 @@ A03, A05, A06 confirmed
 
 ## 📁 Deliverables
 - Professional PDF report
-- PowerPoint presentation
+- Zap Scan report
+- Zap scan mp4
 
 ## 👤 Author
 Murtaza Sukhsarwala
